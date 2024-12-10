@@ -16,7 +16,10 @@ Instala la Eeprom con un CH341A y una pinza por menos de 5 euros como este:
 
 https://es.aliexpress.com/item/1005006695849792.html
 
-Usa el soft AsProgrammer_2.1.0.13_fix https://karadev.net/basto/CH341a_Programmer_FIX_V1.43/AsProgrammer_V2.1.0.13_FIX/AsProgrammer_2.1.0.13_fix.rar
+Usa el soft AsProgrammer_2.1.0.13_fix
+
+[AsProgrammer_2.1.0.13_fix.zip](https://github.com/user-attachments/files/18082822/AsProgrammer_2.1.0.13_fix.zip)
+
 
 ![ch341a](https://github.com/user-attachments/assets/63a1376c-6104-4d64-87cf-9ff857b7352e)
 
