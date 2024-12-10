@@ -17,3 +17,5 @@ Instala la Eeprom con un CH341A y una pinza por menos de 5 euros como este:
 https://es.aliexpress.com/item/1005006695849792.html
 
 ![ch341a](https://github.com/user-attachments/assets/63a1376c-6104-4d64-87cf-9ff857b7352e)
+
+![board](https://github.com/user-attachments/assets/2e97ce23-c4af-485e-a6fa-c1909dac83be)
