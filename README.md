@@ -12,7 +12,7 @@ Instala la Flash con este procedimiento
 
 [https://github.com/RecoverEasythreedK9/Artery-AT32-SWD-ICP-EasyThreed-K9-AT32](https://github.com/RecoverEasythreedK9/Artery-AT32-SWD-ICP-EasyThreed-K9-AT32)
 
-Instala la Eeprom con un CH341A y una pinza por menos de 5 euros como este: (usa el soft AsProgrammer_2.1.0.13_fix)
+Instala la Eeprom con un CH341A y una pinza por menos de 5 euros como este: (usa soft tipo AsProgrammer_2.1.0.13_fix)
 
 https://es.aliexpress.com/item/1005006695849792.html
 
