@@ -32,3 +32,4 @@ Usa el soft AsProgrammer_2.1.0.13_fix o Neoprogrammer
 ![IMG_20241216_141714](https://github.com/user-attachments/assets/b5f2bed3-b2a5-41f2-a092-43a0d4c49f68)
 
 https://www.printables.com/model/986708-easythreed-k9-carriage
+![IMG_20241216_143311](https://github.com/user-attachments/assets/30082bd4-c871-478e-ac46-70b3c9228d3a)
