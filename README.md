@@ -1,7 +1,7 @@
 # Dump-stock-Flash-Eeprom-Easythreed-K9-AT32
-Backup de la Flash del chip AT32F403ARCT7 y la Eeprom 24C16 de la impresora 3D Easythreed K9 stock
+Backup Dump de la Flash del chip AT32F403ARCT7 y la Eeprom 24C16 de la impresora 3D Easythreed K9 stock firmware
 
-Restaura la impresora al estado de fábrica
+Restaura la impresora al estado de fábrica (por ejemplo cuando la impresora no realiza círculos correctamente pues la eeprom se corrompió)
 
 [k9flashAT32.zip](https://github.com/user-attachments/files/18081042/k9flashAT32.zip)
 
